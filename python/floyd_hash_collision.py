@@ -57,4 +57,4 @@ def floyd(hash, x0):
 	print "tortoise", temp_tortoise, ">", hash(temp_tortoise)
 	print "hare", temp_hare, ">", hash(temp_hare)
 
-floyd(hash, "maciejek")
+floyd(hash, "textexample")
